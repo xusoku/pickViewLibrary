@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/res/merged/androidTest/debug/layout/include_pickerview_topbar.xml",
+        "source": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/layout/include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/res/merged/androidTest/debug/layout/pickerview_options.xml",
+        "source": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/layout/pickerview_options.xml"
+    },
+    {
+        "merged": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/res/merged/androidTest/debug/layout/two_pickerview_options.xml",
+        "source": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/layout/two_pickerview_options.xml"
+    },
+    {
+        "merged": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/res/merged/androidTest/debug/layout/layout_basepickerview.xml",
+        "source": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/layout/layout_basepickerview.xml"
+    },
+    {
+        "merged": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/res/merged/androidTest/debug/layout/pickerview_time.xml",
+        "source": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/layout/pickerview_time.xml"
+    }
+]

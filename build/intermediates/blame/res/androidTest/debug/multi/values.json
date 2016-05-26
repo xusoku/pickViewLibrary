@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 54,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 54,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 56,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 56,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 56,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 56,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 57,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 57,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 71,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 71,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 72,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 72,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 68,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endColumn": 68,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 61,
+                    "endOffset": 914
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 61,
+                        "endOffset": 914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 919,
+                    "endColumn": 55,
+                    "endOffset": 970
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 55,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 975,
+                    "endColumn": 60,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 60,
+                        "endOffset": 1031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 61,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1036,
+                        "endColumn": 61,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 63,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 63,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 60,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1162,
+                        "endColumn": 60,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 41,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 41,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 48,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 48,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 44,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1314,
+                        "endColumn": 44,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 46,
+                    "endOffset": 1401
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endColumn": 46,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1406,
+                    "endColumn": 48,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 48,
+                        "endOffset": 1450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 46,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1455,
+                        "endColumn": 46,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 48,
+                    "endOffset": 1546
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 48,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1551,
+                    "endColumn": 48,
+                    "endOffset": 1595
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 48,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1600,
+                    "endColumn": 45,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/Users/davis/Downloads/PickView-master1/pickview/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 45,
+                        "endOffset": 1641
+                    }
+                }
+            }
+        ]
+    }
+]
